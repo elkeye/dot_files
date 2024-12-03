@@ -118,8 +118,13 @@ ForegroundNormal=205, 214, 244
 ForegroundPositive=166, 227, 161
 ForegroundVisited=203, 166, 247
 
+[DirSelect Dialog]
+DirSelectDialog Size=853,591
+History Items[$e]=file:$HOME/pictures,file:$HOME/Documents,file:$HOME/downloads
+
 [General]
 ColorSchemeHash=babca25f3a5cf7ece26a85de212ab43d0a141257
+UseSystemBell=true
 XftAntialias=true
 XftHintStyle=hintslight
 XftSubPixel=rgb
@@ -159,6 +164,9 @@ Dialog Size=600,480
 [PreviewSettings]
 EnableRemoteFolderThumbnail=false
 MaximumRemoteSize=0
+
+[Sounds]
+Enable=false
 
 [WM]
 activeBackground=30,30,46

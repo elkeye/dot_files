@@ -103,6 +103,10 @@ plugin=org.kde.plasma.cameraindicator
 immutability=1
 plugin=org.kde.plasma.keyboardindicator
 
+[Containments][69][Applets][71][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
 [Containments][69][Applets][72]
 immutability=1
 plugin=org.kde.plasma.clipboard
@@ -121,6 +125,9 @@ plugin=org.kde.plasma.printmanager
 [Containments][69][Applets][75]
 immutability=1
 plugin=org.kde.plasma.notifications
+
+[Containments][69][Applets][75][Configuration]
+PreloadWeight=55
 
 [Containments][69][Applets][76]
 immutability=1
@@ -171,7 +178,7 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][69][Applets][86][Configuration]
-PreloadWeight=65
+PreloadWeight=70
 
 [Containments][69][General]
 extraItems=org.kde.plasma.cameraindicator,org.kde.plasma.keyboardindicator,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.printmanager,org.kde.plasma.bluetooth,org.kde.plasma.notifications,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.plasma.keyboardlayout,org.kde.plasma.brightness,org.kde.kscreen,org.kde.plasma.vault,org.kde.plasma.battery,org.kde.plasma.volume,org.kde.plasma.networkmanagement

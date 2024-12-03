@@ -22,7 +22,7 @@
                 "sdrBrightness": 455,
                 "sdrGamutWideness": 0,
                 "transform": "Normal",
-                "vrrPolicy": "Never",
+                "vrrPolicy": "Automatic",
                 "wideColorGamut": false
             }
         ],
