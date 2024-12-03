@@ -54,7 +54,7 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][63][Applets][66][Configuration][General]
-launchers=applications:systemsettings.desktop,preferred://browser
+launchers=preferred://browser,applications:systemsettings.desktop
 
 [Containments][63][Applets][67]
 immutability=1
